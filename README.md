@@ -19,7 +19,7 @@ Steve was impressed with the previous analysis workbook for the DQ stock and wou
 
 
 ## Results
-During 2017 all stocks were doing well other than TERP, but in 2018 all stocks did bad other than ENPH and RUN. Both ENPH and RUN did well when looking at both years **(ENPH: 136.3% in 2017 and 97.9% in 2018, RUN: 9.5% in 2017 and 85.2% in 2018)**, but ENPH by far had the best returns.
+During 2017 all stocks were doing well other than TERP, but in 2018 all stocks did bad other than ENPH and RUN. Both ENPH and RUN did well when looking at both years **(ENPH: 129.5% in 2017 and 81.9% in 2018, RUN: 5.5% in 2017 and 84.0% in 2018)**, but ENPH by far had the best returns.
 
 ![allstocks2017](resources/allstocks2017.png) 
 ![allstocks2018](resources/allstocks2018.png)
